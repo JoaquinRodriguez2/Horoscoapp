@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Horoscoapp</string>
+    <string name ="hello_blank_fragment">string/hello_blank_fragment</string>
+</resources>
