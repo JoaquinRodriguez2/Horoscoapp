@@ -1,4 +1,4 @@
-package com.example.horoscoapp.ui.home
+package com.example.horoscoapp.ui.horoscope
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
