@@ -20,10 +20,8 @@ class MainActivity : AppCompatActivity() {
         val view = binding.root
         setContentView(view)
 
-        val navHost = supportFragmentManager.findFragmentById(R.id.fragmentContainerView) as NavHostFragment
-        navController = navHost.navController
-        binding.bottomNavView.setupWithNavController(navController)
 
+        initNavigation()
     }
 
 
